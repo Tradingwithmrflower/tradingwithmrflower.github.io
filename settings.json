@@ -1,0 +1,50 @@
+[
+  {
+  "name": "MrFlower",
+  "bio": "📊 Trader’ Researcher & Investor | 💻 IT/Cybersecurity Telegram:::::@MrFlower304",
+  "profilePicture": "images/profile.jpg",
+  "links": [
+    {
+      "text": "TikTok",
+      "url": "https://tiktok.com/@yourusername",
+      "icon": "images/tiktok.png",
+      "visible": true
+    },
+    {
+      "text": "WhatsApp Channel",
+      "url": "https://whatsapp.com/channel/yourchannel",
+      "icon": "images/whatsapp.png",
+      "visible": true
+    },
+    {
+      "text": "WhatsApp Inbox",
+      "url": "https://wa.me/yourphone",
+      "icon": "images/whatsapp.png",
+      "visible": true
+    },
+    {
+      "text": "Telegram Inbox",
+      "url": "https://t.me/yourusername",
+      "icon": "images/telegram.png",
+      "visible": true
+    },
+    {
+      "text": "Telegram Channel",
+      "url": "https://t.me/yourchannel",
+      "icon": "images/telegram.png",
+      "visible": true
+    },
+    {
+      "text": "Download PDF",
+      "url": "files/ICT_Course.pdf",
+      "icon": "images/pdf.png",
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/yourusername",
+      "icon": "images/instagram.png",
+      "visible": false
+    }
+  ]
+}
